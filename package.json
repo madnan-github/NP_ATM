@@ -1,6 +1,6 @@
 {
   "name": "atmsimple",
-  "version": "2.8.9",
+  "version": "3.8.9",
   "description": "Simple Command Line ATM Program",
   "main": "index.js",
   "type": "module",
