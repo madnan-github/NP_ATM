@@ -4,7 +4,7 @@ import inquirer from "inquirer";
 
 let myBal = 8000;
 console.log(myBal);
-let myPin = 4560;
+let myPin = 1234;
 const pinAns = await inquirer.prompt([
     {
         name: "pin",
